@@ -1,0 +1,15 @@
+C:\Personal Project\DLS language\DSL\DSL\bin\Debug\net8.0\DSL.exe
+C:\Personal Project\DLS language\DSL\DSL\bin\Debug\net8.0\DSL.deps.json
+C:\Personal Project\DLS language\DSL\DSL\bin\Debug\net8.0\DSL.runtimeconfig.json
+C:\Personal Project\DLS language\DSL\DSL\bin\Debug\net8.0\DSL.dll
+C:\Personal Project\DLS language\DSL\DSL\bin\Debug\net8.0\DSL.pdb
+C:\Personal Project\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Project\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.AssemblyInfoInputs.cache
+C:\Personal Project\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.AssemblyInfo.cs
+C:\Personal Project\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.csproj.CoreCompileInputs.cache
+C:\Personal Project\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.dll
+C:\Personal Project\DLS language\DSL\DSL\obj\Debug\net8.0\refint\DSL.dll
+C:\Personal Project\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.pdb
+C:\Personal Project\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.genruntimeconfig.cache
+C:\Personal Project\DLS language\DSL\DSL\obj\Debug\net8.0\ref\DSL.dll
+C:\Personal Project\DLS language\DSL\DSL\bin\Debug\net8.0\script.dsl
