@@ -1,0 +1,83 @@
+Begin:
+
+What did I want to make:
+
+Folder/file structured language that works with just writing code instead of having to "right mouse click, add, new file, name the file" and having to do that for every single one, you don't want that.
+
+History:
+QJ= Qing Jie, also note my account has the name "Everyday" because I use that gaming e-mail in AI as well, so copilot calles me my first name which in this case is "Everyday"
+CPL: Copilot
+
+(talking to Copilot)
+Idea:
+
+QJ: Hey, I want to make an language for folder structure, because I have a very messy desktop and want to be able to easily construct files and folders without it getting messy.
+
+CPL: That's an awesome idea Everyday!
+I'd love to help you with this!
+
+Your general idea:
+
+Language to easily:
+modify or make files,
+make folders,
+sort files or folders.
+
+We can absolutly achieve this. Just one thing before we get started.
+What language are we going to be using? Javascript, HTML, C#, C++
+
+Just say what you like and we get started!
+
+QJ: I want to work in C#, and I like to use this and a structure:
+project {
+    filter {
+    }
+}
+
+project is necessary, because it defines the root. Filter is optional, it can be there but can be empty, it doesn't need to be filled.
+
+Also I realized that of course we can't just start writing in C# and it sees these as valid statements, we need to define them so C# accepts it.
+
+CPL: You are absolutly correct, if we don't give C# the logic it doesn't recognise it at valid.
+Let's start with the basics.
+
+In your project file,
+what you need to make:
+
+
+<Project name>
+	Interpreter
+		Interpreter.cs
+	Lexer
+		Lexer.cs
+		Token.cs
+		TokenType.cs
+	Parser
+		AstNodes
+			<future nodes like FileNode and FolderNode>
+		Parser.cs
+	Utils
+	Program.cs
+	script.dsl
+
+If you have set this up just give me "GO" and I'll handle the rest
+
+QJ: Thats awesome but I see something called "Dependencies" what is that? Is it a problem or do I not touch it?
+Also when I try to create script.dsl I don't see that in C# - add menu.
+
+CPL: Let's break it down into 2 problems.
+1 
+DO NOT TOUCH DEPENDENCIES, they are necessary for your project to work, if you remove it you project falls apart. Its not a virus or dangerous in any way, just keep it like this.
+
+2 
+It might be very confusing to create an .dsl file. Let's take the necessary steps to achieve it.
+	1, Go to your system when <your project> is located
+	2, Find the .sln and <your project> C#, right click and choose "add Tekst file"
+	3, Right click the file and change its type to .dsl
+	
+Congratulations, you now have an script.dsl file, there you can write your custom code in.
+
+
+
+
+

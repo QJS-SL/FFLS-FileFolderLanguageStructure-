@@ -13,3 +13,19 @@ C:\Personal Project\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.pdb
 C:\Personal Project\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.genruntimeconfig.cache
 C:\Personal Project\DLS language\DSL\DSL\obj\Debug\net8.0\ref\DSL.dll
 C:\Personal Project\DLS language\DSL\DSL\bin\Debug\net8.0\script.dsl
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\bin\Debug\net8.0\DSL.exe
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\bin\Debug\net8.0\script.dsl
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\bin\Debug\net8.0\DSL.deps.json
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\bin\Debug\net8.0\DSL.runtimeconfig.json
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\bin\Debug\net8.0\DSL.dll
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\bin\Debug\net8.0\DSL.pdb
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.AssemblyInfoInputs.cache
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.AssemblyInfo.cs
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.csproj.CoreCompileInputs.cache
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.sourcelink.json
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.dll
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\obj\Debug\net8.0\refint\DSL.dll
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.pdb
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\obj\Debug\net8.0\DSL.genruntimeconfig.cache
+C:\School\Ambition\FFLS(FileFolderLanguageStructure)\DLS language\DSL\DSL\obj\Debug\net8.0\ref\DSL.dll

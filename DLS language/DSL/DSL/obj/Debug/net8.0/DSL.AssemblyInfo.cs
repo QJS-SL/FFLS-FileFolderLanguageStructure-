@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb14caabcfe11df6de17e56e7c540196acf906d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,97 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Personal Project\\DLS language\\DSL\\",
+  "WorkspaceRootPath": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\script.dsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\script.dsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\script.dsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\utils\\patternmatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\utils\\patternmatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\interpreter\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\interpreter\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\relocatenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\relocatenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\lexer\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\lexer\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\cleannode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\cleannode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\renamenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\renamenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\removenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\removenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\lexer\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\lexer\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\lexer\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\literalnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\lexer\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\lexer\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\interpreter\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\interpreter\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\utils\\patternmatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\utils\\patternmatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\relocatenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\relocatenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\cleannode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\cleannode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\renamenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\renamenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\removenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\removenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\literalnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\literalnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\ignorenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\ignorenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\ignorenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\foldernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\foldernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\foldernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\blocknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\blocknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\blocknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\filternode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\filternode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\filternode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\forbidnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\forbidnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\forbidnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\projectnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\projectnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\projectnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\deletenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\deletenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\deletenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\filenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\filenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\filenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\addnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\addnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\addnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\personal project\\dls language\\dsl\\dsl\\parser\\astnodes\\excludenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|c:\\school\\ambition\\ffls(filefolderlanguagestructure)\\dls language\\dsl\\dsl\\parser\\astnodes\\excludenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8256999E-5F6E-437F-966D-AC5E93348550}|DSL\\DSL.csproj|solutionrelative:dsl\\parser\\astnodes\\excludenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -108,11 +108,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "script.dsl",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\script.dsl",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\script.dsl",
               "RelativeDocumentMoniker": "DSL\\script.dsl",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\script.dsl",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\script.dsl",
               "RelativeToolTip": "DSL\\script.dsl",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-05-11T12:02:36.574Z",
               "IsPinned": true,
@@ -120,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Tokentype.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Lexer\\Tokentype.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Lexer\\Tokentype.cs",
               "RelativeDocumentMoniker": "DSL\\Lexer\\Tokentype.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Lexer\\Tokentype.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Lexer\\Tokentype.cs",
               "RelativeToolTip": "DSL\\Lexer\\Tokentype.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T11:14:35.125Z",
               "IsPinned": true,
@@ -136,11 +136,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Interpreter.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Interpreter\\Interpreter.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Interpreter\\Interpreter.cs",
               "RelativeDocumentMoniker": "DSL\\Interpreter\\Interpreter.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Interpreter\\Interpreter.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Interpreter\\Interpreter.cs",
               "RelativeToolTip": "DSL\\Interpreter\\Interpreter.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAwwGIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwGgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T11:47:34.845Z",
               "IsPinned": true,
@@ -148,13 +148,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Parser.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\Parser.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\Parser.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\Parser.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\Parser.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\Parser.cs",
               "RelativeToolTip": "DSL\\Parser\\Parser.cs",
-              "ViewState": "AgIAAPIAAAAAAAAAAAAmwPoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwGEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T11:26:22.438Z",
               "IsPinned": true,
@@ -162,13 +162,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Lexer.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Lexer\\Lexer.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Lexer\\Lexer.cs",
               "RelativeDocumentMoniker": "DSL\\Lexer\\Lexer.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Lexer\\Lexer.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Lexer\\Lexer.cs",
               "RelativeToolTip": "DSL\\Lexer\\Lexer.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAmwFoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAmwIEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T19:08:07.91Z",
               "IsPinned": true,
@@ -176,76 +176,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PatternMatcher.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Utils\\PatternMatcher.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Utils\\PatternMatcher.cs",
               "RelativeDocumentMoniker": "DSL\\Utils\\PatternMatcher.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Utils\\PatternMatcher.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Utils\\PatternMatcher.cs",
               "RelativeToolTip": "DSL\\Utils\\PatternMatcher.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAYwDcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T10:42:38.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T10:42:38.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RenameNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\RenameNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\RenameNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\RenameNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\RenameNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\RenameNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\RenameNode.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T09:45:28.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T09:45:28.713Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "LiteralNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\LiteralNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\LiteralNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\LiteralNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\LiteralNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\LiteralNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\LiteralNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T17:10:15.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T17:10:15.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "RemoveNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\RemoveNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\RemoveNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\RemoveNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\RemoveNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\RemoveNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\RemoveNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T16:48:12.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T16:48:12.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "RelocateNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\RelocateNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\RelocateNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\RelocateNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\RelocateNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\RelocateNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\RelocateNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T16:47:56.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T16:47:56.062Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "ProjectNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\ProjectNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\ProjectNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\ProjectNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\ProjectNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\ProjectNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\ProjectNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,35 +250,33 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\Node.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\Node.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\Node.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\Node.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\Node.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\Node.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T16:47:43.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T16:47:43.065Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "IgnoreNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\IgnoreNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\IgnoreNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\IgnoreNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\IgnoreNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\IgnoreNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\IgnoreNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T16:47:39.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T16:47:39.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "ForbidNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\ForbidNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\ForbidNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\ForbidNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\ForbidNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\ForbidNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\ForbidNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,9 +286,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "FolderNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\FolderNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\FolderNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\FolderNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\FolderNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\FolderNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\FolderNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -305,9 +298,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "FileNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\FileNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\FileNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\FileNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\FileNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\FileNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\FileNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -317,9 +310,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "ExcludeNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\ExcludeNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\ExcludeNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\ExcludeNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\ExcludeNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\ExcludeNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\ExcludeNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -329,9 +322,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "DeleteNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\DeleteNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\DeleteNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\DeleteNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\DeleteNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\DeleteNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\DeleteNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -339,24 +332,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CleanNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\CleanNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\CleanNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\CleanNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\CleanNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\CleanNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\CleanNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T16:47:12.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T16:47:12.225Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "AddNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\AddNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\AddNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\AddNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\AddNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\AddNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\AddNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -366,9 +358,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "BlockNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\BlockNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\BlockNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\BlockNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\BlockNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\BlockNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\BlockNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -378,9 +370,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "FilterNode.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\FilterNode.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\FilterNode.cs",
               "RelativeDocumentMoniker": "DSL\\Parser\\AstNodes\\FilterNode.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\FilterNode.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Parser\\AstNodes\\FilterNode.cs",
               "RelativeToolTip": "DSL\\Parser\\AstNodes\\FilterNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -390,9 +382,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Program.cs",
+              "DocumentMoniker": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Program.cs",
               "RelativeDocumentMoniker": "DSL\\Program.cs",
-              "ToolTip": "C:\\Personal Project\\DLS language\\DSL\\DSL\\Program.cs",
+              "ToolTip": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\Program.cs",
               "RelativeToolTip": "DSL\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

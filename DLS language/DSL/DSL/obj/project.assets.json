@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Personal Project\\DLS language\\DSL\\DSL\\DSL.csproj",
+      "projectUniqueName": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\DSL.csproj",
       "projectName": "DSL",
-      "projectPath": "C:\\Personal Project\\DLS language\\DSL\\DSL\\DSL.csproj",
+      "projectPath": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\DSL.csproj",
       "packagesPath": "C:\\Users\\qscho\\.nuget\\packages\\",
-      "outputPath": "C:\\Personal Project\\DLS language\\DSL\\DSL\\obj\\",
+      "outputPath": "C:\\School\\Ambition\\FFLS(FileFolderLanguageStructure)\\DLS language\\DSL\\DSL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
