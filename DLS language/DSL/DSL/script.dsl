@@ -10,12 +10,10 @@ project {
         }
     }
 
-    relocate *.txt{
-        from folder{
+    rename file{
+        in folder{
             src
         }
-        to folder{
-            src2
-        }
+        from a.txt to a1.txt
     }
 }

@@ -1,5 +1,6 @@
 ﻿using DSL.Lexer;
 using DSL.Parser.AstNodes;
+using System.Threading.Channels;
 
 namespace DSL.Parser;
 
@@ -249,6 +250,7 @@ public class Parser
     {
         if (Check(type)) return Advance();
         throw Error(Peek(), message);
+        
     }
 
     private Exception Error(Token token, string message)
