@@ -43,3 +43,8 @@ This is a language to help you with organizing your files in a structured manner
 //To, points to a certain folder to be a added
 
 //In, looks inside a certain folder
+
+
+AI OVERVIEW:
+
+https://copilot.microsoft.com/conversations/join/f69LLWyYD4zPjJRua5ndf
